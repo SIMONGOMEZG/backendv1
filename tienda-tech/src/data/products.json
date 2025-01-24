@@ -1,0 +1,44 @@
+[
+  {
+    "id": "744406d9-16c4-431a-8718-a28bbdf5eaa5",
+    "title": "Auriculares Bluetooth",
+    "description": "Auriculares con cancelación de ruido",
+    "code": "HD-001",
+    "price": 200,
+    "status": true,
+    "stock": 30,
+    "category": "Accesorios",
+    "thumbnails": [
+      "img7.jpg",
+      "img8.jpg"
+    ]
+  },
+  {
+    "id": "96d138db-97cf-48fc-a8f4-3ed20ff7aecd",
+    "title": "Auriculares Bluetooth",
+    "description": "Auriculares con cancelación de ruido",
+    "code": "HD-001",
+    "price": 200,
+    "status": true,
+    "stock": 30,
+    "category": "Accesorios",
+    "thumbnails": [
+      "img7.jpg",
+      "img8.jpg"
+    ]
+  },
+  {
+    "id": "9146d333-5cab-4213-a0fc-ede2b30eaba2",
+    "title": "Auriculares Bluetooth",
+    "description": "Auriculares con cancelación de ruido",
+    "code": "HD-001",
+    "price": 200,
+    "status": true,
+    "stock": 30,
+    "category": "Accesorios",
+    "thumbnails": [
+      "img7.jpg",
+      "img8.jpg"
+    ]
+  }
+]

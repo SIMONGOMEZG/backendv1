@@ -1,0 +1,48 @@
+2025-01-23T17:39:26.070Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-23T17:42:40.715Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-23T18:15:45.572Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T02:59:10.869Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:45:56.851Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:46:34.597Z [error]: Ruta no encontrada: POST /api/products%0A%0A
+2025-01-24T03:48:14.822Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:48:30.906Z [error]: Ruta no encontrada: POST /api/products%0A%0A
+2025-01-24T03:48:33.994Z [error]: Ruta no encontrada: GET /api/products%0A
+2025-01-24T03:48:36.174Z [error]: Ruta no encontrada: POST /api/products%0A%0A
+2025-01-24T03:50:16.150Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:53:32.425Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:53:43.659Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:54:11.939Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:54:26.910Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:54:34.704Z [error]: Ruta no encontrada: POST /api/products%0A%0A
+2025-01-24T03:54:37.004Z [error]: Ruta no encontrada: GET /api/products%0A
+2025-01-24T03:54:58.288Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:55:16.506Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T03:55:29.155Z [error]: Ruta no encontrada: GET /api/products%0A
+2025-01-24T04:08:08.819Z [info]: Producto agregado: 744406d9-16c4-431a-8718-a28bbdf5eaa5
+2025-01-24T04:08:09.205Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T04:08:32.889Z [info]: Producto agregado: 96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T04:08:33.238Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T04:12:08.850Z [error]: Ruta no encontrada: PUT /api/products/96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:38:31.591Z [info]: Servidor corriendo en http://localhost:8080
+2025-01-24T17:38:41.058Z [error]: Ruta no encontrada: GET /
+2025-01-24T17:38:41.257Z [error]: Ruta no encontrada: GET /favicon.ico
+2025-01-24T17:40:55.605Z [error]: Ruta no encontrada: PUT /api/products/96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:42:48.784Z [error]: Ruta no encontrada: PUT /api/products/id:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:42:49.819Z [error]: Ruta no encontrada: PUT /api/products/id:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:43:03.683Z [error]: Ruta no encontrada: PUT /api/products/:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:43:14.067Z [error]: Ruta no encontrada: PUT /api/products/:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:46:38.453Z [error]: Ruta no encontrada: PUT /api/products/:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:56:02.589Z [error]: Ruta no encontrada: PUT /api/products/:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:56:32.057Z [info]: Producto agregado: 9146d333-5cab-4213-a0fc-ede2b30eaba2
+2025-01-24T17:56:36.114Z [error]: Ruta no encontrada: PUT /api/products/:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:57:19.286Z [error]: Ruta no encontrada: PUT /api/products/%20:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:57:23.789Z [error]: Ruta no encontrada: PUT /api/products/96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T17:57:28.836Z [error]: Ruta no encontrada: PUT /api/products/:%2096d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T18:00:25.396Z [error]: Ruta no encontrada: PUT /api/products/:96d138db-97cf-48fc-a8f4-3ed20ff7aecd
+2025-01-24T18:01:29.126Z [error]: Ruta no encontrada: PUT /api/products/9146d333-5cab-4213-a0fc-ede2b30eaba2
+2025-01-24T18:01:37.766Z [error]: Ruta no encontrada: POST /api/products/9146d333-5cab-4213-a0fc-ede2b30eaba2
+2025-01-24T18:01:40.572Z [error]: Ruta no encontrada: POST /api/products/9146d333-5cab-4213-a0fc-ede2b30eaba2
+2025-01-24T18:01:57.862Z [error]: Ruta no encontrada: PUT /api/products/9146d333-5cab-4213-a0fc-ede2b30eaba2
+2025-01-24T18:02:09.059Z [error]: Ruta no encontrada: PUT /api/products/9146d333-5cab-4213-a0fc-ede2b30eaba2
+2025-01-24T18:03:07.300Z [error]: Ruta no encontrada: DELETE /api/products/9146d333-5cab-4213-a0fc-ede2b30eaba2
+2025-01-24T18:03:10.458Z [error]: Ruta no encontrada: DELETE /api/products/9146d333-5cab-4213-a0fc-ede2b30eaba2
