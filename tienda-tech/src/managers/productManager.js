@@ -8,7 +8,7 @@ class ProductManager {
             return JSON.parse(data);
         } catch (error) {
             if (error.code === 'ENOENT') {
-                await fs.writeFile(path, JSON.stringify([], null, 2)); // Crear archivo vacío si no existe
+                await fs.writeFile(path, JSON.stringify([], null, 2));
                 return [];
             }
             throw new Error('Error al leer los productos');
