@@ -6,7 +6,6 @@ const logger = require('../logger');
 const router = express.Router();
 const productManager = new ProductManager();
 
-// Obtener todos los productos
 router.get('/', async (req, res) => {
     try {
         const products = await productManager.getAllProducts();
@@ -17,7 +16,6 @@ router.get('/', async (req, res) => {
     }
 });
 
-// Agregar un producto
 router.post('/', validateProduct, async (req, res) => {
     try {
         const product = await productManager.addProduct(req.body);
